@@ -47,7 +47,7 @@ public class Main {
                 }
             }
         }
-        // 여기에 도달했다면 이길수 있는 조건이 더이상 없습니다.
+        // If reached here, there are no more conditions to win.
         return false;
     }
 
